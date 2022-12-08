@@ -1,0 +1,64 @@
+{
+  "imagens": [
+    {
+      "id": 1,
+      "img": "https://www.ofuxico.com.br/wp-content/uploads/2022/05/conheca-a-historia-de-wanda-maximoff-foto.jpg",
+      "titulo": "Wanda Maximoff"
+    },
+    {
+      "id": 2,
+      "img": "https://uploads.metropoles.com/wp-content/uploads/2021/07/05184547/Viuva_Negra_Natasha_Romanoff-600x400.jpg",
+      "titulo": "Natasha Romanoff"
+    },
+    {
+      "id": 3,
+      "img": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/02/brie-larson-capita-marvel.jpg",
+      "titulo": "Carol Danvers"
+    },
+    {
+      "id": 4,
+      "img": "https://marvelucm.com/wp-content/uploads/2022/05/Hailee-Steinfeld-as-Kate-Bishop-in-Hawkeye-Episode-3.jpg",
+      "titulo": "Kate Bishop"
+    },
+    {
+      "id": 5,
+      "img": "data:image/jpeg;base64,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",
+      "titulo": "Yelena Belova"
+    },
+    {
+      "id": 6,
+      "img": "https://i0.wp.com/lesbout.com.br/wp-content/uploads/2020/06/alex-2.jpg?fit=800%2C450&ssl=1",
+      "titulo": "Alex Danvers"
+    },
+    {
+      "id": 7,
+      "img": "https://www.thefandomentals.com/wp-content/uploads/2017/07/karas3.png",
+      "titulo": "Kara Danvers"
+    },
+    {
+      "id": 8,
+      "img": "https://www.ofuxico.com.br/wp-content/uploads/2022/04/capitao-america-em-o-soldado-invernal.jpg",
+      "titulo": "Capitão América"
+    },
+    {
+      "id": 9,
+      "img": "https://lumiere-a.akamaihd.net/v1/images/iron_man_marvel_d9ce0209.jpeg?region=64,0,712,400",
+      "titulo": "Homem de Ferro"
+    },
+    {
+      "id": 10,
+      "img": "https://portalpopline.com.br/wp-content/uploads/2021/11/homem-formiga.jpg",
+      "titulo": "Homem Formiga"
+    },
+    {
+      "id": 11,
+      "img": "https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2020/06/marvel-a-historia-da-editora-nos-quadrinhos-e-no-cinema.jpg",
+      "titulo": "Marvel Quadrinhos"
+    },
+    {
+      "img": "https://revistapesquisa.fapesp.br/wp-content/uploads/2019/06/018-027_CAPA_Lua_280-0-1140px-abre.jpg",
+      "titulo": "Lua",
+      "id": 12
+    }
+  ]
+}
